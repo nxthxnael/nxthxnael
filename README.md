@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Passionate <b>developer</b> exploring new technologies and building impactful projects. Always eager to learn and collaborate.</p>
+<p align="center">Passionate <b>developer</b> and moonlighting <b>graphic designer</b> exploring new technologies and building impactful projects. Always eager to learn and collaborate.</p>
 
 ###
 
