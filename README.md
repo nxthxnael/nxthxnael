@@ -52,11 +52,10 @@
 
 ---
 
-<p align="center">Reach Out</p>
-
 <div align="center">
-  <p>Email: <a href="mailto:nathanael.mutua.m@gmail.com">nathanael.mutua.m@gmail.com</a></p>
-  <p>LinkedIn: <a href="https://www.linkedin.com/in/nathanaelmutua/">NathanaelMutua</a></p>
+  <h3>Reach Out</h3>
+  <a href="mailto:nathanael.mutua.m@gmail.com"><img src="https://img.shields.io/badge/Email-nathanael.mutua.m%40gmail.com-818cf8?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/nathanaelmutua/"><img src="https://img.shields.io/badge/LinkedIn-NathanaelMutua-818cf8?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=90&section=footer" alt="" width="100%" />
