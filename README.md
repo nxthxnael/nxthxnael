@@ -1,37 +1,90 @@
-<h1 align="center">Nathanael Mutua</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=170&section=header&text=Nathanael%20Mutua&fontSize=44&fontColor=e5e7eb&fontAlignY=38&desc=Developer%20%C2%B7%20Graphic%20Designer&descSize=16&descColor=9ca3af&descAlignY=58" alt="Nathanael Mutua - Developer and Graphic Designer" width="100%" />
+
+  <a href="https://github.com/nxthxnael">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=1200&color=818CF8&center=true&vCenter=true&width=460&lines=Building+useful+things+for+the+web+and+mobile;Designing+interfaces+with+intent;Always+learning%2C+always+collaborating" alt="Typing tagline" />
+  </a>
+</div>
+
+---
 
 <p align="center">I'm a passionate and adaptive <b>developer</b>, yet also a moonlighting <b>graphic designer</b> exploring new technologies and building impactful projects. Always eager to learn and collaborate.</p>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nxthxnael&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&custom_title=My%20Most%20Used%20Languages" height="150" alt="languages graph"  />
+  <h3>Languages</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nxthxnael&locale=en&layout=compact&card_width=420&langs_count=8&hide_title=true&hide_border=true&bg_color=0d1117&text_color=9ca3af&title_color=818cf8" alt="Most used languages" />
 </div>
 
 
-
 <div align="center">
-  <h3>Technologies & Tools</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="39" alt="figma logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="39" alt="react logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="39" alt="dart logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="39" alt="flutter logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="39" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="39" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="39" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="39" alt="typescript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="39" alt="photoshop logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="39" alt="illustrator logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="39" alt="after effects logo" />
+  <h3>Technologies &amp; Tools</h3>
+  <table>
+    <tr>
+      <td align="right"><sub><b>Frontend</b></sub></td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" alt="react logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" alt="javascript logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" alt="typescript logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" alt="html5 logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" alt="css3 logo" />
+      </td>
+    </tr>
+    <tr>
+      <td align="right"><sub><b>Backend</b></sub></td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="36" alt="go logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" alt="postgresql logo" />
+      </td>
+    </tr>
+    <tr>
+      <td align="right"><sub><b>Data &amp; ML</b></sub></td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" alt="python logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="36" alt="jupyter logo" />
+      </td>
+    </tr>
+    <tr>
+      <td align="right"><sub><b>Mobile</b></sub></td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="36" alt="dart logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="36" alt="flutter logo" />
+      </td>
+    </tr>
+    <tr>
+      <td align="right"><sub><b>Design</b></sub></td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" alt="figma logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="36" alt="photoshop logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="36" alt="illustrator logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="36" alt="after effects logo" />
+      </td>
+    </tr>
+    <tr>
+      <td align="right"><sub><b>Tools</b></sub></td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" alt="git logo" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-<p align="center">Reach Out</p>
-
 <div align="center">
-  <p>Email: <a href="mailto:nathanael.mutua.m@gmail.com">nathanael.mutua.m@gmail.com</a></p>
-  <p>LinkedIn: <a href="https://www.linkedin.com/in/nathanaelmutua/">NathanaelMutua</a></p>
+  <h3>Contribution Activity</h3>
+  <img src="https://ghchart.rshah.org/818cf8/nxthxnael" alt="Contribution calendar" width="85%" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=nxthxnael&theme=dark&background=0d1117&hide_border=true&ring=818cf8&fire=2dd4bf&currStreakLabel=818cf8&sideLabels=9ca3af&currStreakNum=e5e7eb&sideNums=e5e7eb&dates=6b7280" alt="GitHub streak stats" />
 </div>
 
 ---
+
+<div align="center">
+  <h3>Reach Out</h3>
+  <a href="mailto:nathanael.mutua.m@gmail.com"><img src="https://img.shields.io/badge/Email-nathanael.mutua.m%40gmail.com-818cf8?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/nathanaelmutua/"><img src="https://img.shields.io/badge/LinkedIn-NathanaelMutua-818cf8?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=90&section=footer" alt="" width="100%" />
