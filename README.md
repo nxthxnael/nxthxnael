@@ -53,6 +53,13 @@
 ---
 
 <div align="center">
+  <h3>Contribution Activity</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nxthxnael&bg_color=0d1117&color=818cf8&line=818cf8&point=2dd4bf&area=true&area_color=818cf8&hide_border=true&title_color=9ca3af" alt="Contribution activity graph" width="100%" />
+</div>
+
+---
+
+<div align="center">
   <h3>Reach Out</h3>
   <a href="mailto:nathanael.mutua.m@gmail.com"><img src="https://img.shields.io/badge/Email-nathanael.mutua.m%40gmail.com-818cf8?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/nathanaelmutua/"><img src="https://img.shields.io/badge/LinkedIn-NathanaelMutua-818cf8?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
