@@ -1,4 +1,12 @@
-<h1 align="center">Nathanael Mutua</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=170&section=header&text=Nathanael%20Mutua&fontSize=44&fontColor=e5e7eb&fontAlignY=38&desc=Developer%20%C2%B7%20Graphic%20Designer&descSize=16&descColor=9ca3af&descAlignY=58" alt="Nathanael Mutua - Developer and Graphic Designer" width="100%" />
+
+  <a href="https://github.com/nxthxnael">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=1200&color=818CF8&center=true&vCenter=true&width=460&lines=Building+useful+things+for+the+web+and+mobile;Designing+interfaces+with+intent;Always+learning%2C+always+collaborating" alt="Typing tagline" />
+  </a>
+</div>
+
+---
 
 <p align="center">I'm a passionate and adaptive <b>developer</b>, yet also a moonlighting <b>graphic designer</b> exploring new technologies and building impactful projects. Always eager to learn and collaborate.</p>
 
