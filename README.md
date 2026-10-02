@@ -32,6 +32,20 @@
       </td>
     </tr>
     <tr>
+      <td align="right"><sub><b>Backend</b></sub></td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="36" alt="go logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" alt="postgresql logo" />
+      </td>
+    </tr>
+    <tr>
+      <td align="right"><sub><b>Data &amp; ML</b></sub></td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" alt="python logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="36" alt="jupyter logo" />
+      </td>
+    </tr>
+    <tr>
       <td align="right"><sub><b>Mobile</b></sub></td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="36" alt="dart logo" />
@@ -45,6 +59,12 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="36" alt="photoshop logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="36" alt="illustrator logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="36" alt="after effects logo" />
+      </td>
+    </tr>
+    <tr>
+      <td align="right"><sub><b>Tools</b></sub></td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" alt="git logo" />
       </td>
     </tr>
   </table>
