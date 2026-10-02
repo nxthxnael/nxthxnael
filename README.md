@@ -13,9 +13,9 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nxthxnael&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&custom_title=My%20Most%20Used%20Languages" height="150" alt="languages graph"  />
+  <h3>Languages</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nxthxnael&locale=en&layout=compact&card_width=420&langs_count=8&hide_title=true&hide_border=true&bg_color=0d1117&text_color=9ca3af&title_color=818cf8" alt="Most used languages" />
 </div>
-
 
 
 <div align="center">
