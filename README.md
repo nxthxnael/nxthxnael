@@ -55,6 +55,8 @@
 <div align="center">
   <h3>Contribution Activity</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nxthxnael&bg_color=0d1117&color=818cf8&line=818cf8&point=2dd4bf&area=true&area_color=818cf8&hide_border=true&title_color=9ca3af" alt="Contribution activity graph" width="100%" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=nxthxnael&theme=dark&background=0d1117&hide_border=true&ring=818cf8&fire=2dd4bf&currStreakLabel=818cf8&sideLabels=9ca3af&currStreakNum=e5e7eb&sideNums=e5e7eb&dates=6b7280" alt="GitHub streak stats" />
 </div>
 
 ---
