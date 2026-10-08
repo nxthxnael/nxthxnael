@@ -8,7 +8,7 @@
 
 ---
 
-<p align="center">I'm a passionate and adaptive <b>developer</b>, yet also a moonlighting <b>graphic designer</b> exploring new technologies and building impactful projects. Always eager to learn and collaborate.</p>
+<p align="center">I'm a passionate and adaptive <b>software developer</b>, yet also a moonlighting <b>graphic designer</b> and <b>entrepreneur</b> exploring new technologies and building impactful projects. Always eager to learn and collaborate.</p>
 
 ---
 
