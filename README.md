@@ -98,7 +98,10 @@
 
 <div align="center">
   <h3>Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nxthxnael&locale=en&layout=compact&card_width=420&langs_count=8&hide_title=true&hide_border=true&bg_color=0d1117&text_color=9ca3af&title_color=818cf8" alt="Most used languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=nxthxnael&locale=en&layout=compact&card_width=420&langs_count=8&hide_title=true&hide_border=true&bg_color=05070F&text_color=A5B0C9&title_color=818CF8" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nxthxnael&locale=en&layout=compact&card_width=420&langs_count=8&hide_title=true&hide_border=true&bg_color=F7F7FB&text_color=475069&title_color=4F46E5" alt="Most used languages" />
+  </picture>
 </div>
 
 ---
@@ -106,8 +109,11 @@
 <div align="center">
   <h3>Contribution Activity</h3>
   <img src="https://ghchart.rshah.org/818cf8/nxthxnael" alt="Contribution calendar" width="85%" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=nxthxnael&theme=dark&background=0d1117&hide_border=true&ring=818cf8&fire=2dd4bf&currStreakLabel=818cf8&sideLabels=9ca3af&currStreakNum=e5e7eb&sideNums=e5e7eb&dates=6b7280" alt="GitHub streak stats" />
+  <br /><br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nxthxnael&background=05070F&hide_border=true&ring=818CF8&fire=BFD4FF&currStreakLabel=818CF8&sideLabels=A5B0C9&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=6B7591&stroke=1E1B4B" />
+    <img src="https://streak-stats.demolab.com?user=nxthxnael&background=F7F7FB&hide_border=true&ring=4F46E5&fire=818CF8&currStreakLabel=4F46E5&sideLabels=475069&currStreakNum=1E1B4B&sideNums=1E1B4B&dates=6B7280&stroke=E0E7FF" alt="GitHub streak stats" />
+  </picture>
 </div>
 
 ---
