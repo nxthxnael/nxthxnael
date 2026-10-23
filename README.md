@@ -1,8 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=170&section=header&text=Nathanael%20Mutua&fontSize=44&fontColor=e5e7eb&fontAlignY=38&desc=Developer%20%C2%B7%20Graphic%20Designer&descSize=16&descColor=9ca3af&descAlignY=58" alt="Nathanael Mutua - Developer and Graphic Designer" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:05070F,55:1E1B4B,100:4F46E5&height=190&section=header&text=Nathanael%20Mutua&fontSize=46&fontColor=F8FAFC&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Entrepreneur%20%C2%B7%20Designer&descSize=17&descColor=BFD4FF&descAlignY=56" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7F7FB,55:E0E7FF,100:818CF8&height=190&section=header&text=Nathanael%20Mutua&fontSize=46&fontColor=1E1B4B&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Entrepreneur%20%C2%B7%20Designer&descSize=17&descColor=4338CA&descAlignY=56" alt="Nathanael Mutua — Software Engineer, Entrepreneur and Designer" width="100%" />
+  </picture>
 
-  <a href="https://github.com/nxthxnael">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=1200&color=818CF8&center=true&vCenter=true&width=460&lines=Building+useful+things+for+the+web+and+mobile;Designing+interfaces+with+intent;Always+learning%2C+always+collaborating" alt="Typing tagline" />
+  <a href="https://nxthxnael.dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=1200&color=818CF8&center=true&vCenter=true&width=600&lines=I+build+products%2C+design+experiences%2C+and+ship+businesses.;Web+%C2%B7+Mobile+%C2%B7+Fintech+%C2%B7+AI+automation;Designing+interfaces+with+intent;Based+in+Nairobi%2C+Kenya" alt="I build products, design experiences, and ship businesses." />
   </a>
 </div>
 
