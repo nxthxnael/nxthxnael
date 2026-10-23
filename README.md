@@ -35,63 +35,70 @@
   </table>
 </div>
 
----
+<br />
 
 <div align="center">
-  <h3>Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nxthxnael&locale=en&layout=compact&card_width=420&langs_count=8&hide_title=true&hide_border=true&bg_color=0d1117&text_color=9ca3af&title_color=818cf8" alt="Most used languages" />
-</div>
-
-<div align="center">
-  <h3>Technologies &amp; Tools</h3>
+  <h3>Technologies &amp; tools</h3>
   <table>
     <tr>
       <td align="right"><sub><b>Frontend</b></sub></td>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" alt="react logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" alt="javascript logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" alt="typescript logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" alt="html5 logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" alt="css3 logo" />
-      </td>
-    </tr>
-    <tr>
-      <td align="right"><sub><b>Backend</b></sub></td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="36" alt="go logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" alt="postgresql logo" />
-      </td>
-    </tr>
-    <tr>
-      <td align="right"><sub><b>Data &amp; ML</b></sub></td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" alt="python logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="36" alt="jupyter logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" alt="React" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" alt="TypeScript" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" alt="JavaScript" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" alt="HTML5" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" alt="CSS3" />
       </td>
     </tr>
     <tr>
       <td align="right"><sub><b>Mobile</b></sub></td>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="36" alt="dart logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="36" alt="flutter logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="36" alt="Flutter" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="36" alt="Dart" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" alt="React Native" />
+      </td>
+    </tr>
+    <tr>
+      <td align="right"><sub><b>Backend</b></sub></td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="36" alt="Go" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" alt="Node.js" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" alt="PostgreSQL" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" alt="MongoDB" />
+      </td>
+    </tr>
+    <tr>
+      <td align="right"><sub><b>Data &amp; ML</b></sub></td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" alt="Python" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="36" alt="Jupyter" />
       </td>
     </tr>
     <tr>
       <td align="right"><sub><b>Design</b></sub></td>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" alt="figma logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="36" alt="photoshop logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="36" alt="illustrator logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="36" alt="after effects logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" alt="Figma" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="36" alt="Photoshop" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="36" alt="Illustrator" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="36" alt="After Effects" />
       </td>
     </tr>
     <tr>
-      <td align="right"><sub><b>Tools</b></sub></td>
+      <td align="right"><sub><b>DevOps &amp; tools</b></sub></td>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" alt="git logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" alt="Docker" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="36" alt="GitHub Actions" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" alt="Git" />
       </td>
     </tr>
   </table>
+</div>
+
+<br />
+
+<div align="center">
+  <h3>Languages</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nxthxnael&locale=en&layout=compact&card_width=420&langs_count=8&hide_title=true&hide_border=true&bg_color=0d1117&text_color=9ca3af&title_color=818cf8" alt="Most used languages" />
 </div>
 
 ---
