@@ -9,9 +9,31 @@
   </a>
 </div>
 
----
+<p align="center">
+  I design and build digital products, and I build businesses with them.<br />
+  Websites, mobile apps, payment systems (M-Pesa, Paystack) and AI automation, engineered end to end.
+</p>
 
-<p align="center">I'm a passionate and adaptive <b>software developer</b>, yet also a moonlighting <b>graphic designer</b> and <b>entrepreneur</b> exploring new technologies and building impactful projects. Always eager to learn and collaborate.</p>
+<p align="center">
+  <a href="https://nxthxnael.dev"><img src="https://img.shields.io/badge/nxthxnael.dev-818CF8?style=flat-square&logo=googlechrome&logoColor=white&labelColor=05070F" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/nxthxnael"><img src="https://img.shields.io/badge/LinkedIn-nxthxnael-818CF8?style=flat-square&logo=linkedin&logoColor=white&labelColor=05070F" alt="LinkedIn" /></a>
+  <a href="https://x.com/nxthxnael"><img src="https://img.shields.io/badge/X-@nxthxnael-818CF8?style=flat-square&logo=x&logoColor=white&labelColor=05070F" alt="X" /></a>
+  <a href="https://www.behance.net/nxthxnael"><img src="https://img.shields.io/badge/Behance-nxthxnael-818CF8?style=flat-square&logo=behance&logoColor=white&labelColor=05070F" alt="Behance" /></a>
+  <a href="https://www.youtube.com/@nxthxnael"><img src="https://img.shields.io/badge/YouTube-@nxthxnael-818CF8?style=flat-square&logo=youtube&logoColor=white&labelColor=05070F" alt="YouTube" /></a>
+</p>
+
+<br />
+
+<div align="center">
+  <h3>What I do</h3>
+  <table>
+    <tr>
+      <td align="center" width="33%"><b>Engineer</b><br /><sub>Web and mobile apps, APIs and backends, payments and AI integrations</sub></td>
+      <td align="center" width="33%"><b>Designer</b><br /><sub>Brand identity, UI/UX and design systems that ship to production</sub></td>
+      <td align="center" width="33%"><b>Entrepreneur</b><br /><sub>Building products and ventures for businesses in Kenya, in public</sub></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -19,7 +41,6 @@
   <h3>Languages</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nxthxnael&locale=en&layout=compact&card_width=420&langs_count=8&hide_title=true&hide_border=true&bg_color=0d1117&text_color=9ca3af&title_color=818cf8" alt="Most used languages" />
 </div>
-
 
 <div align="center">
   <h3>Technologies &amp; Tools</h3>
