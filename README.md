@@ -104,10 +104,10 @@
   </picture>
 </div>
 
----
+<br />
 
 <div align="center">
-  <h3>Contribution Activity</h3>
+  <h3>Contribution activity</h3>
   <img src="https://ghchart.rshah.org/818cf8/nxthxnael" alt="Contribution calendar" width="85%" />
   <br /><br />
   <picture>
@@ -116,12 +116,16 @@
   </picture>
 </div>
 
----
+<br />
 
 <div align="center">
-  <h3>Reach Out</h3>
-  <a href="mailto:nathanael.mutua.m@gmail.com"><img src="https://img.shields.io/badge/Email-nathanael.mutua.m%40gmail.com-818cf8?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/nathanaelmutua/"><img src="https://img.shields.io/badge/LinkedIn-NathanaelMutua-818cf8?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
+  <h3>Work with me</h3>
+  <p>Need a website, app or system? Let's talk.</p>
+  <a href="https://nxthxnael.dev"><img src="https://img.shields.io/badge/Visit-nxthxnael.dev-818CF8?style=for-the-badge&labelColor=05070F" alt="Visit nxthxnael.dev" /></a>
+  <a href="mailto:nathanael.mutua.m@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-818CF8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=05070F" alt="Email" /></a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=90&section=footer" alt="" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,45:1E1B4B,100:05070F&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:818CF8,45:E0E7FF,100:F7F7FB&height=100&section=footer" alt="" width="100%" />
+</picture>
