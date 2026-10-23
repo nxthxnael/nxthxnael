@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:05070F,55:1E1B4B,100:4F46E5&height=190&section=header&text=Nathanael%20Mutua&fontSize=46&fontColor=F8FAFC&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Entrepreneur%20%C2%B7%20Designer&descSize=17&descColor=BFD4FF&descAlignY=56" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4338CA,100:818CF8&height=190&section=header&text=Nathanael%20Mutua&fontSize=46&fontColor=F8FAFC&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Entrepreneur%20%C2%B7%20Designer&descSize=17&descColor=BFD4FF&descAlignY=56" />
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7F7FB,55:E0E7FF,100:818CF8&height=190&section=header&text=Nathanael%20Mutua&fontSize=46&fontColor=1E1B4B&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Entrepreneur%20%C2%B7%20Designer&descSize=17&descColor=4338CA&descAlignY=56" alt="Nathanael Mutua — Software Engineer, Entrepreneur and Designer" width="100%" />
   </picture>
 
@@ -126,6 +126,6 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,45:1E1B4B,100:05070F&height=100&section=footer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:818CF8,50:4338CA,100:1E1B4B&height=100&section=footer" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:818CF8,45:E0E7FF,100:F7F7FB&height=100&section=footer" alt="" width="100%" />
 </picture>
